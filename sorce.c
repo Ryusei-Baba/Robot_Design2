@@ -10,7 +10,6 @@
 // K1-K4: 状態フィードバックゲイン（1x4のゲイン）
 // MAX_V : 駆動系の最大電圧
 
-
 adv =    ;    
 
     theta = (float)adv * ADV_TO_RAD;
