@@ -1,4 +1,6 @@
 # robot_design2
+<img src="https://user-images.githubusercontent.com/92899820/185361966-107c6c67-96bd-4945-8320-75d21bc047a8.png" width="300">
+
 ### [倒立振子デモ動画](https://youtu.be/y7OstwfR0Zk)
 ### [セグウェイデモ動画](https://youtu.be/qjuO5qiH8Oc)
 
